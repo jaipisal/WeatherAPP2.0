@@ -9,6 +9,7 @@ A beautiful, feature-rich weather application built with React, TypeScript, and 
 - **User Registration & Login**: Secure authentication with form validation
 - **Persistent Sessions**: User preferences and session data stored locally
 
+
 ### Weather Dashboard
 - **Current Weather**: Real-time weather conditions with animated icons
 - **7-Day Forecast**: Detailed weekly weather predictions
@@ -32,6 +33,11 @@ A beautiful, feature-rich weather application built with React, TypeScript, and 
 - **Error Handling**: Graceful error states and recovery
 
 ## 🚀 Getting Started
+
+<img width="1366" height="658" alt="1" src="https://github.com/user-attachments/assets/71d784d3-a521-459d-abf5-e42883c0d2c4" />
+<img width="1354" height="650" alt="2" src="https://github.com/user-attachments/assets/bf5e6a4f-89fc-4ee8-ab3a-4ec80a429c47" />
+
+
 
 ### Prerequisites
 - Node.js (version 16 or higher)
