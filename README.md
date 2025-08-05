@@ -1,6 +1,6 @@
 # WeatherFlow - Stunning Weather Application
 
-A beautiful, feature-rich weather application built with React, TypeScript, and Tailwind CSS. WeatherFlow provides comprehensive weather information with an elegant user interface and smooth animations.
+A beautiful, feature-rich weather application built with React, TypeScript, and Tailwind CSS. WeatherFlow provides comprehensive weather information with an elegant user interface and smooth animations. project hosted on :- https://glittering-liger-39bb50.netlify.app/
 
 ## 🌟 Features
 
